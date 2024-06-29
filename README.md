@@ -1,3 +1,3 @@
 ### My Hyprland Dotfiles
 ---
-![screenshot1](assets/grim-onedark-1.png)
+![screenshot1](assets/onedark-1.png)
