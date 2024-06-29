@@ -1,0 +1,9 @@
+@import "colours"; // Imports colour file (_colours.scss)
+* {
+  all: unset;
+  font-family: "JetBrainsMono Nerd Font";
+  color: $fg;
+}
+
+@import "./windows/bar/style.scss";
+@import "./windows/notifications/style.scss";
